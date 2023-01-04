@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'SUITE';
+	font-weight: 300;
+	src: url('./SUITE-Light.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SUITE';
+	font-weight: 400;
+	src: url('./SUITE-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SUITE';
+	font-weight: 500;
+	src: url('./SUITE-Medium.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SUITE';
+	font-weight: 600;
+	src: url('./SUITE-SemiBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SUITE';
+	font-weight: 700;
+	src: url('./SUITE-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SUITE';
+	font-weight: 800;
+	src: url('./SUITE-ExtraBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SUITE';
+	font-weight: 900;
+	src: url('./SUITE-Heavy.woff2') format('woff2');
+}
