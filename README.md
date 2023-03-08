@@ -21,7 +21,7 @@ SUITE―스위트는 정원과 직각, 직선과 사선의 기하학적 조형 �
 <link href="https://cdn.jsdelivr.net/gh/sunn-us/SUITE/fonts/static/woff2/SUITE.css" rel="stylesheet">
 
 <style>
-    * {font-family: 'SUITE', sans-serif;}
+    body {font-family: 'SUITE', sans-serif;}
 </style>
 ```
 
@@ -30,7 +30,7 @@ SUITE―스위트는 정원과 직각, 직선과 사선의 기하학적 조형 �
 <link href="https://cdn.jsdelivr.net/gh/sunn-us/SUITE/fonts/variable/woff2/SUITE-Variable.css" rel="stylesheet">
 
 <style>
-    * {font-family: 'SUITE Variable', sans-serif;}
+    body {font-family: 'SUITE Variable', sans-serif;}
 </style>
 ```
 
