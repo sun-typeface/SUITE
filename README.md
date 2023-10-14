@@ -6,19 +6,19 @@ SUITE―스위트는 정원과 직각, 직선과 사선의 기하학적 조형 �
 
 ## Download
 ### Static
-- [OTF](https://github.com/sunn-us/SUITE/releases/latest/download/SUITE-otf.zip)
-- [TTF](https://github.com/sunn-us/SUITE/releases/latest/download/SUITE-ttf.zip)
-- [WOFF2](https://github.com/sunn-us/SUITE/releases/latest/download/SUITE-woff2.zip)
+- [OTF](https://github.com/sun-typeface/SUITE/releases/latest/download/SUITE-otf.zip)
+- [TTF](https://github.com/sun-typeface/SUITE/releases/latest/download/SUITE-ttf.zip)
+- [WOFF2](https://github.com/sun-typeface/SUITE/releases/latest/download/SUITE-woff2.zip)
 
 ### Variable
-- [TTF](https://github.com/sunn-us/SUITE/releases/latest/download/SUITE-Variable-ttf.zip)
-- [WOFF2](https://github.com/sunn-us/SUITE/releases/latest/download/SUITE-Variable-woff2.zip)
+- [TTF](https://github.com/sun-typeface/SUITE/releases/latest/download/SUITE-Variable-ttf.zip)
+- [WOFF2](https://github.com/sun-typeface/SUITE/releases/latest/download/SUITE-Variable-woff2.zip)
 
 
 ## Webfont
 ### Static
 ```html
-<link href="https://cdn.jsdelivr.net/gh/sunn-us/SUITE/fonts/static/woff2/SUITE.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/sun-typeface/SUITE/fonts/static/woff2/SUITE.css" rel="stylesheet">
 
 <style>
     body {font-family: 'SUITE', sans-serif;}
@@ -27,7 +27,7 @@ SUITE―스위트는 정원과 직각, 직선과 사선의 기하학적 조형 �
 
 ### Variable
 ```html
-<link href="https://cdn.jsdelivr.net/gh/sunn-us/SUITE/fonts/variable/woff2/SUITE-Variable.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/sun-typeface/SUITE/fonts/variable/woff2/SUITE-Variable.css" rel="stylesheet">
 
 <style>
     body {font-family: 'SUITE Variable', sans-serif;}
